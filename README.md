@@ -42,6 +42,7 @@ C:\IntranetAD
 └── result.html # Página de resultados (opcional)
 └── foto.png # Logo exibido na interface web
 
-[upload.html](https://github.com/user-attachments/files/21994466/upload.html)[app.py.py](https://github.com/user-attachments/files/21994467/app.py.py)
+[upload.html](https://github.com/user-attachments/files/21994466/upload.html)
+[app.py.py](https://github.com/user-attachments/files/21994467/app.py.py)
 
 
