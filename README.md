@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/44b1da1b-1e46-44d5-8a71-0638b72573e6
 
 Este projeto demonstra a automação do **Active Directory (AD)** utilizando **Flask**, permitindo a integração de aplicações web em Python com ambientes corporativos. A aplicação simplifica tarefas administrativas, como gerenciamento de usuários, grupos e permissões, de forma centralizada.
 
-A principal funcionalidade é o **upload de planilhas na interface web**, possibilitando a **criação em massa de usuários no AD**, definição de senhas iniciais e organização em unidades administrativas (OUs). Isso agiliza e padroniza processos administrativos, reduzindo erros manuais.
+A principal funcionalidade é o **upload de planilhas na interface web**, possibilitando a **criação e exclusão em massa de usuários no AD**, definição de senhas iniciais e organização em unidades administrativas (OUs). Isso agiliza e padroniza processos administrativos, reduzindo erros manuais.
 
 ---
 
