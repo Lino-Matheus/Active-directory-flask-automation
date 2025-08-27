@@ -38,18 +38,8 @@ A principal funcionalidade é o **upload de planilhas na interface web**, possib
 
 ## Estrutura do Projeto
 
-C:\IntranetAD
-│── app.py                # Script principal da aplicação Flask
-│
-├── logs\                 # Pasta para armazenar logs de operação
-│
-├── static\               # Arquivos estáticos (CSS, JS, imagens)
-│
-├── templates\            # Páginas HTML da aplicação
-│   │── upload.html       # Formulário de upload de planilhas
-│   └── result.html       # Página de resultados (opcional)
-│
-└── uploads\              # Pasta para armazenar planilhas enviadas
+<img width="600" height="192" alt="diretorios" src="https://github.com/user-attachments/assets/cb4f985c-c783-42f8-a2af-2152b6379e92" />
+
 
 
 
