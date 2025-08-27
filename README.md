@@ -1,5 +1,9 @@
-# Active-directory-flask-automation
-# Automação Active Directory com Flask
+# Active-directory-flask-automation -  Automação Active Directory com Flask
+
+
+https://github.com/user-attachments/assets/3e9c9928-a209-474a-af40-3940a98a58a7
+
+
 
 
 ## Descrição do Projeto
@@ -33,15 +37,19 @@ A principal funcionalidade é o **upload de planilhas na interface web**, possib
 ---
 
 ## Estrutura do Projeto
+
 C:\IntranetAD
-│── app.py # Script principal da aplicação Flask
-│── uploads\ # Pasta para armazenar planilhas enviadas
-│── logs\ # Pasta para armazenar logs de operação
+│── app.py                # Script principal da aplicação Flask
 │
-└── templates
-└── upload.html # Formulário de upload de planilhas
-└── result.html # Página de resultados (opcional)
-└── logo.png # Logo exibido na interface web
+├── logs\                 # Pasta para armazenar logs de operação
+│
+├── static\               # Arquivos estáticos (CSS, JS, imagens)
+│
+├── templates\            # Páginas HTML da aplicação
+│   │── upload.html       # Formulário de upload de planilhas
+│   └── result.html       # Página de resultados (opcional)
+│
+└── uploads\              # Pasta para armazenar planilhas enviadas
 
 
 
